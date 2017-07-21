@@ -21,6 +21,12 @@ public class HelloWorld {
         HelloWorld helloWorld=new HelloWorld();
         helloWorld.setName("youluyao");
         System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+
     }
 
 }
