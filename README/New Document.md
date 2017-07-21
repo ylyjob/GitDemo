@@ -1,0 +1,1 @@
+![维持的图片](http://i.imgur.com/hEUhLbn.jpg)
