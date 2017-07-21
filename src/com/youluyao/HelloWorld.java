@@ -27,6 +27,20 @@ public class HelloWorld {
         System.out.println(helloWorld.getName());
         System.out.println(helloWorld.getName());
 
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+        System.out.println(helloWorld.getName());
+
     }
 
 }
